@@ -1,0 +1,9 @@
+c:\users\chert\source\repos\MyDb\MyDb\bin\Debug\MyDb.exe.config
+c:\users\chert\source\repos\MyDb\MyDb\bin\Debug\MyDb.exe
+c:\users\chert\source\repos\MyDb\MyDb\bin\Debug\MyDb.pdb
+c:\users\chert\source\repos\MyDb\MyDb\obj\Debug\MyDb.Form1.resources
+c:\users\chert\source\repos\MyDb\MyDb\obj\Debug\MyDb.Properties.Resources.resources
+c:\users\chert\source\repos\MyDb\MyDb\obj\Debug\MyDb.csproj.GenerateResource.cache
+c:\users\chert\source\repos\MyDb\MyDb\obj\Debug\MyDb.csproj.CoreCompileInputs.cache
+c:\users\chert\source\repos\MyDb\MyDb\obj\Debug\MyDb.exe
+c:\users\chert\source\repos\MyDb\MyDb\obj\Debug\MyDb.pdb
